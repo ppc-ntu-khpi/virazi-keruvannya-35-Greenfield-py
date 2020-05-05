@@ -1,0 +1,17 @@
+cmd.exe
+/X
+/C
+""D:\Program Files (x86)\jdk\jre\..\bin\javadoc.exe" @options @argfile"
+C:\Users\Admin\Desktop\virazi-keruvannya\target\site\apidocs\allclasses-frame.html = 1588704832660
+C:\Users\Admin\Desktop\virazi-keruvannya\target\site\apidocs\allclasses-noframe.html = 1588704832661
+C:\Users\Admin\Desktop\virazi-keruvannya\target\site\apidocs\argfile = 1588704831871
+C:\Users\Admin\Desktop\virazi-keruvannya\target\site\apidocs\constant-values.html = 1588704832633
+C:\Users\Admin\Desktop\virazi-keruvannya\target\site\apidocs\deprecated-list.html = 1588704832654
+C:\Users\Admin\Desktop\virazi-keruvannya\target\site\apidocs\help-doc.html = 1588704832664
+C:\Users\Admin\Desktop\virazi-keruvannya\target\site\apidocs\index-all.html = 1588704832651
+C:\Users\Admin\Desktop\virazi-keruvannya\target\site\apidocs\index.html = 1588704832662
+C:\Users\Admin\Desktop\virazi-keruvannya\target\site\apidocs\options = 1588704831870
+C:\Users\Admin\Desktop\virazi-keruvannya\target\site\apidocs\overview-tree.html = 1588704832647
+C:\Users\Admin\Desktop\virazi-keruvannya\target\site\apidocs\package-list = 1588704832616
+C:\Users\Admin\Desktop\virazi-keruvannya\target\site\apidocs\script.js = 1588704832667
+C:\Users\Admin\Desktop\virazi-keruvannya\target\site\apidocs\stylesheet.css = 1588704832666
